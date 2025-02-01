@@ -1,0 +1,47 @@
+{
+    "ms": 52,
+    "query": "{\n  \"name\": \"Mondrian\",\n  \"timestamp\": \"2021-10-06T18:18:18.181Z\",\n  \"version\": {\n    \"major\": 1,\n    \"minor\": 0,\n    \"patch\": 2\n  },\n  \"tags\": {},\n  \"logoURI\": \"https://raw.githubusercontent.com/WaveLength/assets/main/assets/0xe1F2F1b7088A1Ee05d444B142De457303c7f342e.png\",\n  \"keywords\": [\n    \"beethoven\",\n    \"default\",\n    \"fantom\"\n  ],\n  \"tokens\": *[_type == \"fantomToken\"]{\n      name,\n      address,\n      symbol,\n      decimals,\n      \"chainId\": 2741,\n      logoURI\n   }\n}",
+    "result": {
+        "keywords": [
+            "abstract",
+            "default",
+            "mondrian"
+        ],
+        "logoURI": "https://raw.githubusercontent.com/wavelength-velas/assets/main/assets/wavelength_logo.png",
+        "name": "Mondrian",
+        "tags": {},
+        "timestamp": "2021-10-06T18:18:18.181Z",
+        "tokens": [
+            {
+                "address": "0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126",
+                "chainId": 2741,
+                "decimals": 18,
+                "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+                "name": "Wrapped Velas",
+                "symbol": "WVLX"
+            },
+            {
+                "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+                "chainId": 2741,
+                "decimals": 6,
+                "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+                "name": "USD Circle",
+                "symbol": "USDC"
+            },
+         
+            {
+                "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+                "chainId": 2741,
+                "decimals": 6,
+                "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+                "name": "Tether USD",
+                "symbol": "USDT"
+            }         
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0,
+            "patch": 2
+        }
+    }
+}
