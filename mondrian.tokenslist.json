@@ -13,15 +13,15 @@
         "timestamp": "2021-10-06T18:18:18.181Z",
         "tokens": [
             {
-                "address": "0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126",
+                "address": "0x3439153eb7af838ad19d56e1571fbd09333c2809",
                 "chainId": 2741,
                 "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
-                "name": "Wrapped Velas",
-                "symbol": "WVLX"
+                "name": "Wrapped Ethereum",
+                "symbol": "WETH"
             },
             {
-                "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+                "address": "0x84A71ccD554Cc1b02749b35d22F684CC8ec987e1",
                 "chainId": 2741,
                 "decimals": 6,
                 "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
@@ -30,7 +30,7 @@
             },
          
             {
-                "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+                "address": "0x0709F39376dEEe2A2dfC94A58EdEb2Eb9DF012bD",
                 "chainId": 2741,
                 "decimals": 6,
                 "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
