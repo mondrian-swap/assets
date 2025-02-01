@@ -1,0 +1,12 @@
+{
+  "result": {
+    "blacklistedPools": [
+    ],
+    "chainId": 2741,
+    "incentivizedPools": [
+    ],
+    "pausedPools": [],
+    "featuredPools": [
+    ]
+  }
+}
