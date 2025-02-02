@@ -4,9 +4,11 @@
     ],
     "chainId": 2741,
     "incentivizedPools": [
+      "0x2b5a28631c738af371a8f103156bacd6ee120829000200000000000000000000"
     ],
     "pausedPools": [],
     "featuredPools": [
+      "0x2b5a28631c738af371a8f103156bacd6ee120829000200000000000000000000"
     ]
   }
 }
