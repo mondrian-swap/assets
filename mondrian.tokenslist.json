@@ -20,6 +20,14 @@
                 "name": "Wrapped Ethereum",
                 "symbol": "WETH"
             },
+             {
+                "address": "0x11b4d31355BBbeA892f53f4BA07604C9441FdE80",
+                "chainId": 2741,
+                "decimals": 18,
+                "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+                "name": "MondrianSwap Token",
+                "symbol": "MOND"
+            },
             {
                 "address": "0x84A71ccD554Cc1b02749b35d22F684CC8ec987e1",
                 "chainId": 2741,
