@@ -1,6 +1,6 @@
 {
     "ms": 52,
-    "query": "{\n  \"name\": \"Mondrian\",\n  \"timestamp\": \"2021-10-06T18:18:18.181Z\",\n  \"version\": {\n    \"major\": 1,\n    \"minor\": 0,\n    \"patch\": 2\n  },\n  \"tags\": {},\n  \"logoURI\": \"https://raw.githubusercontent.com/WaveLength/assets/main/assets/0xe1F2F1b7088A1Ee05d444B142De457303c7f342e.png\",\n  \"keywords\": [\n    \"beethoven\",\n    \"default\",\n    \"fantom\"\n  ],\n  \"tokens\": *[_type == \"fantomToken\"]{\n      name,\n      address,\n      symbol,\n      decimals,\n      \"chainId\": 2741,\n      logoURI\n   }\n}",
+    "query": "{\n  \"name\": \"MondrianSwap Whitelist Tokens\",\n  \"timestamp\": \"205-01-06T18:18:18.181Z\",\n  \"version\": {\n    \"major\": 1,\n    \"minor\": 0,\n    \"patch\": 2\n  },\n  \"tags\": {},\n  \"logoURI\": \"https://raw.githubusercontent.com/WaveLength/assets/main/assets/0xe1F2F1b7088A1Ee05d444B142De457303c7f342e.png\",\n  \"keywords\": [\n    \"mondrian\",\n    \"default\",\n    \"abstract\"\n  ],\n  \"tokens\": *[_type == \"abstractToken\"]{\n      name,\n      address,\n      symbol,\n      decimals,\n      \"chainId\": 2741,\n      logoURI\n   }\n}",
     "result": {
         "keywords": [
             "abstract",
