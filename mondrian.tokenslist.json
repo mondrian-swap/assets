@@ -1,14 +1,14 @@
 {
     "ms": 52,
-    "query": "{\n  \"name\": \"MondrianSwap Whitelist Tokens\",\n  \"timestamp\": \"205-01-06T18:18:18.181Z\",\n  \"version\": {\n    \"major\": 1,\n    \"minor\": 0,\n    \"patch\": 2\n  },\n  \"tags\": {},\n  \"logoURI\": \"https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/mondrian.png\",\n  \"keywords\": [\n    \"mondrian\",\n    \"default\",\n    \"abstract\"\n  ],\n  \"tokens\": *[_type == \"abstractToken\"]{\n      name,\n      address,\n      symbol,\n      decimals,\n      \"chainId\": 2741,\n      logoURI\n   }\n}",
+    "query": "{\n  \"name\": \"MondrianSwap Whitelist Tokens\",\n  \"timestamp\": \"205-01-06T18:18:18.181Z\",\n  \"version\": {\n    \"major\": 1,\n    \"minor\": 0,\n    \"patch\": 2\n  },\n  \"tags\": {},\n  \"logoURI\": \"https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/logo.png\",\n  \"keywords\": [\n    \"mondrian\",\n    \"default\",\n    \"abstract\"\n  ],\n  \"tokens\": *[_type == \"abstractToken\"]{\n      name,\n      address,\n      symbol,\n      decimals,\n      \"chainId\": 2741,\n      logoURI\n   }\n}",
     "result": {
         "keywords": [
             "abstract",
             "default",
             "mondrian"
         ],
-        "logoURI": "https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/mondrian.png",
-        "name": "Mondrian",
+        "logoURI": "https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/logo.png",
+        "name": "MondrianSwap Whitelist Tokens",
         "tags": {},
         "timestamp": "2021-10-06T18:18:18.181Z",
         "tokens": [
@@ -24,7 +24,7 @@
                 "address": "0x11b4d31355BBbeA892f53f4BA07604C9441FdE80",
                 "chainId": 2741,
                 "decimals": 18,
-                "logoURI": "https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/mondrian.png",
+                "logoURI": "https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/logo.png",
                 "name": "MondrianSwap Token",
                 "symbol": "MOND"
             },
