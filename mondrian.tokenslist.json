@@ -60,6 +60,14 @@
                 "logoURI": "https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/RAP.png",
                 "name": "RossTheAbstractPainter",
                 "symbol": "RAP"
+            },
+            {
+                "address": "0x01440f9B32C52aEFfd957c155FF2454FF0138849",
+                "chainId": 2741,
+                "decimals": 18,
+                "logoURI": "https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/surv.webp",
+                "name": "SurvToken",
+                "symbol": "SURV"
             }   
         ],
         "version": {
