@@ -49,7 +49,7 @@
                 "address": "0x7F7a85eD620053259f886749600E73E90aEfc84B",
                 "chainId": 2741,
                 "decimals": 18,
-                "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+                "logoURI": "https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/moist.png",
                 "name": "DiddyScrotumFree",
                 "symbol": "MOIST"
             },
@@ -57,7 +57,7 @@
                 "address": "0x8643C7DdE9780025343200A3195DbB02184dad80",
                 "chainId": 2741,
                 "decimals": 18,
-                "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+                "logoURI": "https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/RAP.png",
                 "name": "RossTheAbstractPainter",
                 "symbol": "RAP"
             }   
