@@ -68,6 +68,14 @@
                 "logoURI": "https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/surv.webp",
                 "name": "SurvToken",
                 "symbol": "SURV"
+            },
+            {
+                "address": "0x9eBe3A824Ca958e4b3Da772D2065518F009CBa62",
+                "chainId": 2741,
+                "decimals": 18,
+                "logoURI": "https://raw.githubusercontent.com/mondrian-swap/assets/refs/heads/main/pudgy.webp",
+                "name": "Pudgy Penguins Token",
+                "symbol": "PENGU"
             }   
         ],
         "version": {
